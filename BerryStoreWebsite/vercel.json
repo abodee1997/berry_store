@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "env": {
+    "SITE_USER": "BerrySTORE10",
+    "SITE_PASS": "07737397708Kengee",
+    "TELEGRAM_BOT_TOKEN": "8479199230:AAFEJlF8BZiaRWwVdNBdu3xZtpf0_LlVeDg",
+    "TELEGRAM_CHAT_ID": "@berrystore10"
+  }
+}
